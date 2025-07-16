@@ -1,0 +1,12 @@
+2025-07-16 15:54:27.582 [main] INFO  [] com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_452 on cursor with PID 3443 (/workspace/target/classes started by ubuntu in /workspace)
+2025-07-16 15:54:27.584 [main] INFO  [] com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-07-16 15:54:28.618 [main] INFO  [] com.example.demo.DemoApplication - Started DemoApplication in 1.4 seconds (JVM running for 1.702)
+2025-07-16 15:55:58.850 [main] INFO  [] com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_452 on cursor with PID 4247 (/workspace/target/classes started by ubuntu in /workspace)
+2025-07-16 15:55:58.852 [main] INFO  [] com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-07-16 15:55:59.759 [main] INFO  [] com.example.demo.DemoApplication - Started DemoApplication in 1.184 seconds (JVM running for 1.402)
+2025-07-16 15:56:52.889 [main] INFO  [] com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_452 on cursor with PID 4794 (/workspace/target/classes started by ubuntu in /workspace)
+2025-07-16 15:56:52.891 [main] INFO  [] com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-07-16 15:56:53.762 [main] INFO  [] com.example.demo.DemoApplication - Started DemoApplication in 1.151 seconds (JVM running for 1.355)
+2025-07-16 15:58:14.813 [main] INFO  [] com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_452 on cursor with PID 5352 (/workspace/target/classes started by ubuntu in /workspace)
+2025-07-16 15:58:14.815 [main] INFO  [] com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-07-16 15:58:15.707 [main] INFO  [] com.example.demo.DemoApplication - Started DemoApplication in 1.173 seconds (JVM running for 1.402)
